@@ -1,0 +1,86 @@
+#head
+{
+    background-color: azure;
+    text-align: center;
+    border: 3px solid black ;
+    
+    
+}
+
+#pcopy
+{
+    background-color: azure;
+    text-align: center;
+    border: 2px solid black;
+}
+
+#simg
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float:left;
+    
+}
+li:hover{
+    background-color: aliceblue;
+
+}
+
+#img1 {
+     padding-right: 30px; 
+     margin-left: auto;
+     margin-right: auto; 
+     padding-left: 90px;
+    
+   
+}
+#img2{
+     padding-right: 30px;
+    margin-left: auto;
+    margin-right: auto; 
+    padding-left: 90px;
+   
+   
+}
+#img3{
+    
+    padding-right: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 90px;
+    
+}
+#img4{
+    padding-right: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 90px;
+ 
+   
+    
+    
+}  
+fieldset{
+    border: 2px solid black;
+   
+}
+table{
+    margin-left: 150px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 70%;
+}
+th{
+    border: 2px solid black;
+    padding: 15px;
+    background-color: aliceblue;
+}
+td{
+    border: 2px solid black;
+    padding: 15px;
+}
+tr:hover{
+    background-color: aliceblue;
+}
+
